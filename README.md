@@ -1,2 +1,9 @@
 # Python-Weather-WebScraper
-Python WebScraper that scrapes data off of a weather website to display weather
+
+Python CLI app that looks up a city and prints its current temperature using the Open-Meteo geocoding and forecast APIs.
+
+# Packages used:
+- Requests
+
+Soon to be implemented:
+- Web application feature to output data in developed UI, not IDE terminal
