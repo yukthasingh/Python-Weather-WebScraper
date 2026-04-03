@@ -1,0 +1,6 @@
+# UI 
+customtkinter
+
+# Web Scraping
+requests
+beautifulsoup4
